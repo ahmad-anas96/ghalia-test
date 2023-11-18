@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953336571704",
+    "project_id": "flutter-ghalia-test171123",
+    "storage_bucket": "flutter-ghalia-test171123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953336571704:android:14209e5cdf4687179d83cd",
+        "android_client_info": {
+          "package_name": "com.ahmadalsaleh.flutter_ghalia_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXfFB0Pn2kKIp839lHk1wKzFFLeY4vMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
